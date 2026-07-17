@@ -37,3 +37,30 @@ This project provides a comprehensive data analysis and interactive visualizatio
 ## 🛠️ Tech Stack & Tools
 * **Data Cleansing & Aggregation:** Python (Pandas, NumPy) via **Google Colab**
 * **Data Visualization & BI:** **Tableau Public**
+
+
+referances
+* [Google Colab Code Snippets](https://colab.research.google.com/notebooks/io.ipynb)
+* [Pandas read_csv Documentation](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
+* [Pandas DataFrame.shape](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html)
+* [Pandas DataFrame.head](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html)
+* [Pandas melt Documentation](https://pandas.pydata.org/docs/reference/api/pandas.melt.html)
+* [Pandas to_datetime](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+* [Pandas DataFrame.set_index](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.set_index.html)
+* [Pandas DataFrame.sort_index](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_index.html)
+* [Pandas DataFrame.isin](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.isin.html)
+* [Pandas DataFrame.copy](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.copy.html)
+* [Pandas DataFrame.to_csv](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html)
+* [Pandas DataFrame.groupby](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html)
+* [Pandas DataFrame.resample](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html)
+* [Pandas DataFrame.unstack](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.unstack.html)
+* [Python os.makedirs Documentation](https://docs.python.org/3/library/os.html#os.makedirs)
+* [Pandas DataFrame.plot](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html)
+* [Matplotlib Axes Documentation](https://matplotlib.org/stable/api/axes_api.html)
+* [Matplotlib Legend Guide](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html)
+* [Matplotlib ax.grid](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.grid.html)
+* [Matplotlib tight_layout](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tight_layout.html)
+* [Matplotlib plt.show](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.show.html)
+* [Tableau Desktop Help and Documentation](https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_guide.htm)
+* [Tableau Data Prep and Formatting Best Practices](https://help.tableau.com/current/pro/desktop/en-us/data_structure_for_tableau.htm)
+* [Tableau Visual Analytics Guide](https://help.tableau.com/current/blueprint/en-us/bp_visual_analytics.htm)
